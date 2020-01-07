@@ -1,6 +1,7 @@
 ## leetcode 数据库
 
 免费开放的题库需要掌握的知识点如下：
+### MySQL
 - [MySQL：delete语句](https://github.com/jast90/leetcode/issues/1)
 - [MySQL：处理group by（深入理解group by）](https://github.com/jast90/leetcode/issues/2)
 - [MySQL：汇总（GROUP BY）函数](https://github.com/jast90/leetcode/issues/3)
