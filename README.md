@@ -3,7 +3,7 @@
 
 ## 划重点
 - [数据库知识点](https://github.com/jast90/leetcode/blob/master/database.md)
-- 多线程
+- [多线程](https://github.com/jast90/LeetCode/blob/master/multi-thread.md)
 - shell
 - 算法
 
