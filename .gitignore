@@ -4,3 +4,4 @@
 *.vscode
 *.classpath
 *.DS_Store
+target/**
