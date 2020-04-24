@@ -15,6 +15,7 @@ public class Merge {
         if (low == high) {
             return;
         }
+        // 将数组一分为二，分治
         int mid = (low + high) / 2;
         // 左数组归并排序
         mergeSort(arr, low, mid);
@@ -61,7 +62,7 @@ public class Merge {
         int j = 0;
         int index = lowIndex; //！！注意
         while(i < leftSize && j < rightSize){
-            if(left[i]<right[j]){
+            if(left[i] > right[j]){ //取大值时是降序，取小值时是升序
                 arr[index++] = left[i++];
             }else{
                 arr[index++] = right[j++];
