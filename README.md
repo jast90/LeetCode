@@ -8,4 +8,4 @@
 - 算法
 
 ## 我的
-请到[LeetCode 主页](https://leetcode-cn.com/u/jast-3/) 题解 查看详情。
+请到[LeetCode 主页](https://leetcode-cn.com/u/jast-zhang/) 题解 查看详情。
